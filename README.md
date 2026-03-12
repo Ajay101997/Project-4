@@ -1,5 +1,6 @@
 # Project-4
 📱 Feature Extraction and Price Prediction for Mobile Phones
+
 📌 Project Overview
 
 This project focuses on predicting the price (Prize) of mobile phones based on their specifications using machine learning techniques. The aim of the project is to identify the most important features that influence mobile phone prices and build a predictive model to estimate the price.
