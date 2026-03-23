@@ -1,17 +1,19 @@
 # Project-4
 📱 Feature Extraction and Price Prediction for Mobile Phones
-📌 Project Overview
+📌 Project Overview:
 
 This project aims to predict mobile phone prices (Prize) based on their specifications using machine learning techniques. It also identifies the key features that influence mobile pricing.
 
-🎯 Objectives
+🎯 Objectives:
+
 Analyze mobile phone specifications
 Perform Exploratory Data Analysis (EDA)
 Identify important features affecting price
 Apply feature engineering and encoding
 Build and evaluate machine learning models
 
-📊 Dataset Description
+📊 Dataset Description:
+
 The dataset contains mobile phone specifications such as:
 
 RAM
@@ -27,7 +29,7 @@ Target Variable:
 
 Prize (Mobile Phone Price)
 
-🔍 Project Workflow
+🔍 Project Workflow:
 
 1. Data Exploration
 Used head(), info(), describe()
@@ -69,29 +71,34 @@ R² Score
 MAE
 MSE
 
-📈 Model Performance
+📈 Model Performance:
+
 Model	R² Score
 Linear Regression	0.93
 Random Forest	0.86
 
 👉 Linear Regression performed better.
 
-⭐ Feature Importance
+⭐ Feature Importance:
+
 Calculated using Random Forest
 Identified key features influencing price
 
-📊 Visualizations
+📊 Visualizations:
+
 Correlation Heatmap
 Feature Importance Plot
 Actual vs Predicted Plot
 Residual Plot
 
-💡 Business Impact
+💡 Business Impact:
+
 Helps companies predict mobile prices
 Identifies key features affecting pricing
 Supports data-driven decisions
 
-🛠 Technologies Used
+🛠 Technologies Used:
+
 Python
 Pandas
 NumPy
@@ -99,11 +106,12 @@ Matplotlib
 Seaborn
 Scikit-learn
 
-📂 Project Files
+📂 Project Files:
+
 project.ipynb → Full code
 varImportance.csv → Feature importance
 README.md → Documentation
 
-🚀 Conclusion
+🚀 Conclusion:
 
 This project demonstrates how machine learning can be used to predict mobile phone prices using their specifications. The analysis also identifies the key features that influence price, helping businesses make better product and pricing decisions.
