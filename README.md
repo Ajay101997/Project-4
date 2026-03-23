@@ -1,192 +1,96 @@
 # Project-4
 📱 Feature Extraction and Price Prediction for Mobile Phones
-
 📌 Project Overview
 
-This project focuses on predicting the price (Prize) of mobile phones based on their specifications using machine learning techniques. The aim of the project is to identify the most important features that influence mobile phone prices and build a predictive model to estimate the price.
+This project aims to predict mobile phone prices (Prize) based on their specifications using machine learning techniques. It also identifies the key features that influence mobile pricing.
 
-The project includes data exploration, exploratory data analysis (EDA), feature engineering, model building, and model evaluation.
-
-🎯 Objective
-
-The main objectives of this project are:
-
+🎯 Objectives
 Analyze mobile phone specifications
-
+Perform Exploratory Data Analysis (EDA)
 Identify important features affecting price
-
-Perform feature extraction techniques
-
-Build machine learning models for price prediction
-
-Evaluate the model performance
-
+Apply feature engineering and encoding
+Build and evaluate machine learning models
 📊 Dataset Description
 
-The dataset contains specifications of different mobile phones.
-
-Features in the dataset include:
-
-Model
-
-Color
-
-Memory
+The dataset contains mobile phone specifications such as:
 
 RAM
-
 Battery Capacity
-
-Rear Camera
-
-Front Camera
-
-AI Lens
-
+Camera (Rear & Front)
 Processor
-
+Memory
 Mobile Height
+AI Lens
+Color and Model
 
-Target Variable
+Target Variable:
 
 Prize (Mobile Phone Price)
-
 🔍 Project Workflow
-1️⃣ Data Exploration
-
-The dataset was loaded and explored using Pandas to understand its structure.
-
-Operations performed:
-
-Viewing first rows of data
-
-Checking data types
-
-Understanding statistical summary
-
-2️⃣ Data Preprocessing
-
-Checked for missing values using df.isnull().sum()
-
-No missing values were found in the dataset
-
-Dataset was cleaned and prepared for analysis
-
-3️⃣ Exploratory Data Analysis (EDA)
-
-EDA was performed to understand the distribution and relationships between variables.
-
-Univariate Analysis
-
-Histograms were used for numeric features
-
-Count plots were used for categorical features
-
-Bivariate Analysis
-
-Numeric features vs Prize using scatter plots
-
-Categorical features vs Prize using bar plots
-
-Correlation Analysis
-
-A correlation heatmap was created to identify relationships between numeric features and price.
-
-4️⃣ Outlier Detection
-
-Outliers were identified using boxplots.
-However, they were not removed because they represent real-world mobile specifications.
-
-5️⃣ Feature Engineering
-
-Categorical variables were converted into numerical format using One Hot Encoding so that machine learning models could process them.
-
-6️⃣ Train Test Split
-
-The dataset was divided into:
-
-80% Training Data
-
-20% Testing Data
-
-This helps evaluate the model on unseen data.
-
-7️⃣ Feature Scaling
-
-Feature scaling was applied using StandardScaler to normalize numerical variables.
-
-8️⃣ Model Building
-
-Two machine learning models were used:
-
+1. Data Exploration
+Used head(), info(), describe()
+Understood dataset structure
+2. Missing Value Check
+Checked using isnull().sum()
+No missing values found
+3. Feature Types
+Numerical → RAM, Battery, etc.
+Categorical → Model, Color, Processor
+4. EDA
+Univariate Analysis → Histograms, Countplots
+Bivariate Analysis → Scatter plots, Box plots
+Multivariate Analysis → Pairplot
+Correlation Analysis → Heatmap
+5. Outlier Detection
+Detected using boxplots
+Not removed (real-world data)
+6. Feature Engineering
+Applied One Hot Encoding
+7. Train-Test Split
+80% Training, 20% Testing
+8. Feature Scaling
+Used StandardScaler
+9. Model Building
 Linear Regression
-
 Random Forest Regressor
-
-These models were trained to predict mobile phone prices.
-
-📈 Model Evaluation
-
-Models were evaluated using:
-
+10. Model Evaluation
 R² Score
-
-Mean Absolute Error (MAE)
-
-Mean Squared Error (MSE)
-
-Model Performance
+MAE
+MSE
+📈 Model Performance
 Model	R² Score
 Linear Regression	0.93
 Random Forest	0.86
 
-Linear Regression performed better for this dataset.
+👉 Linear Regression performed better.
 
 ⭐ Feature Importance
-
-Feature importance was calculated using the Random Forest model to identify which features most strongly influence mobile phone prices.
-
+Calculated using Random Forest
+Identified key features influencing price
 📊 Visualizations
-
-The project includes the following visualizations:
-
 Correlation Heatmap
-
 Feature Importance Plot
-
 Actual vs Predicted Plot
-
 Residual Plot
-
-💡 Business Recommendations
-
-Based on the analysis:
-
-Mobile phone prices are influenced by key specifications such as RAM, battery capacity, processor, and camera features.
-
-Companies can use these insights to design competitive mobile phones and optimize pricing strategies.
-
+💡 Business Impact
+Helps companies predict mobile prices
+Identifies key features affecting pricing
+Supports data-driven decisions
+🚀 Conclusion
+Successfully predicted mobile prices
+Linear Regression gave best results
+Key features strongly influence pricing
 🛠 Technologies Used
-
 Python
-
 Pandas
-
 NumPy
-
 Matplotlib
-
 Seaborn
-
 Scikit-learn
-
 📂 Project Files
-
-Project Notebook (.ipynb) → Complete project code
-
-varImportance.csv → Feature importance results
-
-README.md → Project documentation
+project.ipynb → Full code
+varImportance.csv → Feature importance
+README.md → Documentation
 
 🚀 Conclusion
 
