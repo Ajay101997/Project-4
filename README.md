@@ -10,8 +10,8 @@ Perform Exploratory Data Analysis (EDA)
 Identify important features affecting price
 Apply feature engineering and encoding
 Build and evaluate machine learning models
-📊 Dataset Description
 
+📊 Dataset Description
 The dataset contains mobile phone specifications such as:
 
 RAM
@@ -26,37 +26,49 @@ Color and Model
 Target Variable:
 
 Prize (Mobile Phone Price)
+
 🔍 Project Workflow
+
 1. Data Exploration
 Used head(), info(), describe()
 Understood dataset structure
+
 2. Missing Value Check
 Checked using isnull().sum()
 No missing values found
-3. Feature Types
+
+4. Feature Types
 Numerical → RAM, Battery, etc.
 Categorical → Model, Color, Processor
-4. EDA
+
+5. EDA
 Univariate Analysis → Histograms, Countplots
 Bivariate Analysis → Scatter plots, Box plots
 Multivariate Analysis → Pairplot
 Correlation Analysis → Heatmap
-5. Outlier Detection
+
+6. Outlier Detection
 Detected using boxplots
 Not removed (real-world data)
-6. Feature Engineering
+
+7. Feature Engineering
 Applied One Hot Encoding
-7. Train-Test Split
+
+8. Train-Test Split
 80% Training, 20% Testing
-8. Feature Scaling
+
+9. Feature Scaling
 Used StandardScaler
-9. Model Building
+
+10. Model Building
 Linear Regression
 Random Forest Regressor
-10. Model Evaluation
+
+11. Model Evaluation
 R² Score
 MAE
 MSE
+
 📈 Model Performance
 Model	R² Score
 Linear Regression	0.93
@@ -67,19 +79,18 @@ Random Forest	0.86
 ⭐ Feature Importance
 Calculated using Random Forest
 Identified key features influencing price
+
 📊 Visualizations
 Correlation Heatmap
 Feature Importance Plot
 Actual vs Predicted Plot
 Residual Plot
+
 💡 Business Impact
 Helps companies predict mobile prices
 Identifies key features affecting pricing
 Supports data-driven decisions
-🚀 Conclusion
-Successfully predicted mobile prices
-Linear Regression gave best results
-Key features strongly influence pricing
+
 🛠 Technologies Used
 Python
 Pandas
@@ -87,6 +98,7 @@ NumPy
 Matplotlib
 Seaborn
 Scikit-learn
+
 📂 Project Files
 project.ipynb → Full code
 varImportance.csv → Feature importance
