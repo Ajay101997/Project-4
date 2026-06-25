@@ -122,7 +122,7 @@ Feature Importance:
 Calculated using Random Forest
 Identified key features influencing price
 
-📊 Visualizations:
+Visualizations:
 
 Correlation Heatmap:
 ```
