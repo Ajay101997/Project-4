@@ -110,9 +110,10 @@ Random Forest MSE: 10275324.485738747
 
 Model Performance:
 
-Model	R² Score
-Linear Regression	0.93
-Random Forest	0.86
+| Model | R² Score | Performance |
+|--------|:--------:|-------------|
+| Linear Regression | **0.9368** | Best Performing Model |
+| Random Forest Regressor | **0.8616** | Good Performance |
 
 Linear Regression performed better.
 
