@@ -71,7 +71,7 @@ Correlation Analysis:
 ```
 7. Outlier Detection (Detected using boxplots):
 ```
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/955c7b82-f892-42ad-9988-302de95c28a0" />
+<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/955c7b82-f892-42ad-9988-302de95c28a0" />
 
 ```
 
@@ -94,15 +94,20 @@ Linear Regression Mean Absolute Error (MAE)- 1420.3176869716235
 Linear Regression Mean Squared Error (MSE)- 4690732.
 ```
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/dcc9fd5c-a0e9-4a08-ba9b-21e2d397220d" />
+
 ```
+
 13. Model Evaluation (Random Forest):
 Random Forest R2 Score- 0.8616470795008602
 Random Forest MAE: 1692.9403878504675
 Random Forest MSE: 10275324.485738747
+
 ```
+
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/cd44c6d2-7692-4050-9fae-3e7fbd1bf46f" />
 
 ```
+
 Model Performance:
 
 Model	R² Score
