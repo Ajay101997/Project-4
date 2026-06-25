@@ -1,0 +1,614 @@
+Feature,Importance
+Memory,0.264479346
+Front Camera_12MP,0.240622985
+Battery_,0.160275851
+Battery_per_Ram,0.051393939
+Model_APPLE iPhone 14 Plus,0.025705199
+RAM,0.023925008
+Mobile Height,0.021066295
+Model_Google Pixel 7,0.01937989
+Processor__Google Tensor G2,0.017769465
+Rear Camera_12MP,0.011840178
+Front Camera_5MP,0.009968784
+Front Camera_16MP,0.008701286
+Processor__Qualcomm Snapdragon 8+ Gen 1,0.007165713
+Front Camera_8MP,0.006732943
+Model_MOTOROLA Edge 30 Ultra,0.005160867
+Colour_Phantom Black,0.004856859
+Front Camera_10MP,0.004598677
+Processor__ios,0.004202273
+Rear Camera_108MP,0.003650166
+"Processor__Dimensity 1080, Octa Core ",0.003454755
+Model_Google Pixel 7a,0.003389331
+Processor__Tensor G2,0.003340392
+Colour_Awesome Graphite,0.003292624
+Model_SAMSUNG Galaxy A34 5G,0.00298851
+Front Camera_32MP,0.002608623
+Model_APPLE iPhone 12,0.002501841
+Rear Camera_64MP,0.002468462
+Colour_Starlight,0.002466057
+Front Camera_13MP,0.002412801
+Model_REDMI Note 12 Pro 5G,0.00223365
+Processor__Mediatek Dimensity 1080,0.002160331
+Colour_Midnight,0.001854106
+Model_Infinix Zero 5G 2023 TURBO,0.001813249
+Rear Camera_2MP,0.00171024
+Model_POCO X5 5G,0.001615197
+Colour_Frost Blue,0.001581212
+Colour_Black,0.001539274
+Processor__Mediatek Dimensity 1080 5G,0.001536324
+Model_realme 10 Pro+ 5G,0.001460766
+Model_SAMSUNG Galaxy S23 5G,0.001433431
+Processor__Snapdragon 8 Gen 1,0.001314416
+Rear Camera_200MP,0.001271019
+Front Camera_50MP,0.001260587
+Model_POCO F5 5G,0.001246493
+Processor__Qualcomm Snapdragon 695 (SM6375),0.001151676
+Rear Camera_50MP,0.001011938
+Colour_Interstellar Black,0.000999657
+Processor__SEC S5E8535 (Exynos 1330),0.000991753
+Front Camera_60MP,0.000979888
+Processor__Mediatek Helio P35,0.000977909
+Processor__Qualcomm Snapdragon 695,0.000971012
+Model_realme X3 SuperZoom,0.000970396
+Model_SAMSUNG Galaxy A23 5G,0.000930728
+Model_vivo T2 5G,0.000908411
+Model_POCO X5 Pro 5G,0.000888392
+Colour_Snow,0.000886218
+Processor__Mediatek Dimensity 810 5G,0.000855273
+Colour_Awesome Violet,0.000853554
+Model_Infinix Zero 20,0.00084652
+Rear Camera_13MP,0.00082982
+Processor__Qualcomm Snapdragon 7+ Gen 2 (4nm),0.000826714
+Model_SAMSUNG Galaxy A14 5G,0.000765624
+Colour_Starlight White,0.000755907
+Model_SAMSUNG Galaxy S22 Plus 5G,0.000743291
+Model_vivo T1 Pro 5G,0.000737937
+Processor__Qualcomm Snapdragon 680,0.000719696
+Model_REDMI K50i 5G,0.000701092
+Processor__Mediatek G96,0.000695962
+Processor__MediaTek,0.000692156
+Colour_Interstellar Glow,0.000663589
+Colour_Cream,0.000633259
+"Processor__Exynos 1380, Octa Core ",0.000594001
+Colour_Green Fantasy,0.000588062
+Processor__Snapdragon 695,0.000560646
+Processor__Mediatek G99,0.000559501
+Rear Camera_48MP,0.000524212
+Colour_Blue,0.00052124
+Model_MOTOROLA G32,0.000515732
+Processor__Dimensity 8100,0.000512926
+Model_vivo Y16,0.000508505
+Model_IQOO Neo 7 5G,0.000505091
+Processor__Qualcomm Snapdragon 695 5G,0.000494341
+Model_SAMSUNG Galaxy Z Flip3 5G,0.000475731
+Processor__Qualcomm Snapdragon 888,0.000465215
+Model_MOTOROLA Edge 30 Fusion,0.000460692
+Colour_Lemongrass,0.000448039
+Model_SAMSUNG Galaxy A54 5G,0.000443541
+Colour_Nebula Green,0.000438271
+Model_realme 9i 5G,0.000428651
+Colour_Steel Black,0.000406576
+Processor__Qualcomm Snapdragon 888 +,0.000396233
+Colour_Glowing Black,0.000395197
+Processor__Android,0.000392719
+Front Camera_44MP,0.000385394
+Model_OPPO A17,0.000383977
+Processor__Qualcomm Snapdragon 778G,0.000377499
+Processor__Qualcomm Snapdragon 8 Gen 1,0.000369932
+Colour_Stardust Black,0.000368398
+Model_vivo Y75,0.000362848
+Colour_Stardust Purple,0.000357837
+Processor__SC6531E,0.000348213
+Processor__Mediatek Helio G35,0.000340852
+Processor__Mediatek Helio G99,0.000327215
+Colour_Charcoal,0.000318714
+Processor__MediaTek Helio G95,0.000314387
+Colour_Jaguar Black,0.000294234
+Model_REDMI Note 12 Pro+ 5G,0.000289278
+Model_vivo V23 5G,0.000287798
+Model_OnePlus 8,0.000276302
+Model_realme 10 Pro 5G,0.000274521
+Processor__Qualcomm Snapdragon 865,0.000272237
+Model_realme GT 2,0.000253114
+Model_realme 9 Pro+ 5G,0.000253064
+Model_SAMSUNG Galaxy F23 5G,0.000245077
+Processor__Qualcomm Snapdragon 778G 5G Mobile Platform,0.000233185
+Processor__Qualcomm Snapdragon 750G,0.000231326
+Model_vivo Y56 5G,0.000224512
+Processor__Mediatek Dimensity 700,0.00022021
+Processor__Mediatek Dimensity 920,0.00021299
+Model_REDMI Note 12 5G,0.000207404
+Model_OPPO A78 5G,0.000206444
+Model_OPPO F21 Pro,0.000204657
+Processor__Mediatek Helio G96,0.000199526
+Colour_Sunset Orange,0.000197027
+Colour_Obsidian,0.00019504
+Model_vivo Y100 5G,0.000192677
+Colour_Carbon Black,0.000192408
+Model_realme Narzo 30,0.00018993
+Model_REDMI Note 11T 5G,0.0001879
+Model_Infinix Hot 12 Pro,0.000184712
+Model_vivo V27 5G,0.000184628
+Rear Camera_8MP,0.000177616
+Model_Infinix HOT 30i,0.000176369
+Colour_Atlantis Blue,0.000174885
+Model_POCO M5,0.000172017
+Processor__Qualcomm Snapdragon 778G+,0.000165238
+Processor__MT6260A,0.000164844
+AI Lens,0.000162669
+Model_Micromax 3,0.000157938
+Model_vivo V25 5G,0.000154676
+Colour_Onyx Black,0.000153252
+Processor__Qualcomm Snapdragon 4 Gen 1,0.000150395
+Processor__Mediatek Dimensity 900,0.000133699
+Processor__Oxygen OS,0.000133123
+Processor__Qualcomm Snapdragon 855+,0.000132058
+Colour_Sailing Blue,0.00013093
+Processor__QualcommÂ® Snapdragonâ¢ 765G,0.000127118
+Model_MOTOROLA g82 5G,0.000127053
+Model_MOTOROLA g13,0.000124097
+Processor__Helio G99,0.000116694
+Model_Infinix Note 12 Pro,0.000116661
+Processor__Mediatek Dimensity 810,0.000112338
+Processor__Mediatek Dimensity 7200 5G,0.000110768
+Rear Camera_32MP,0.000108115
+Colour_Orange Shimmer,0.000107043
+Colour_White Lily,0.000106595
+Model_realme Narzo 50,0.00010551
+Colour_Lavender Blue,0.000100835
+Colour_Olive Green,0.000100763
+Model_REDMI 11 Prime,9.96E-05
+Model_MOTOROLA G62 5G,9.89E-05
+Colour_Silver,9.71E-05
+Processor__G37,9.15E-05
+Colour_Turbo Cyan,9.01E-05
+Model_MOTOROLA g31,8.99E-05
+Processor__Qualcomm Snapdragon 855,8.89E-05
+Processor__Qualcomm Snapdragon 778G Plus,8.87E-05
+Colour_Moonlight Shadow,8.81E-05
+Processor__Mediatek Helio G85,8.76E-05
+Model_nothing phone 1,8.64E-05
+Colour_Volcanic Grey,8.62E-05
+Model_OnePlus Nord 2T 5G,8.60E-05
+Model_MOTOROLA g52,8.54E-05
+Colour_Midnight Black,8.44E-05
+Processor__Google Tensor,8.35E-05
+Processor__Unisoc T612,8.22E-05
+Model_POCO C55,8.19E-05
+Colour_Yellow,8.18E-05
+Colour_Satin Silver,8.11E-05
+Processor__Mediatek Helio G37,7.98E-05
+Colour_Snowstorm White,7.96E-05
+Colour_Cosmic grey,7.85E-05
+Processor__MediaTek Helio G88,7.78E-05
+Model_SAMSUNG Galaxy F13,7.76E-05
+Colour_Sea,7.76E-05
+Processor__Dimensity 8200,7.75E-05
+Colour_Power Black,7.66E-05
+Colour_Turbo Black,7.65E-05
+Colour_Electric Blue,7.63E-05
+Colour_Magic Blue,7.49E-05
+Colour_Mineral Gray,7.46E-05
+Processor__Helio G85,7.39E-05
+Model_micromax 3,7.23E-05
+Model_POCO X4 Pro 5G,7.18E-05
+Colour_Aurora Green,7.09E-05
+Processor__Unisoc T616,6.97E-05
+Processor__Helio G88,6.87E-05
+Front Camera_20MP,6.80E-05
+Processor__MediaTek Helio G85,6.74E-05
+Colour_Pearly White,6.64E-05
+Processor__Qualcomm Snapdragon 888 Octa-Core,6.55E-05
+Model_vivo T1 44W,6.47E-05
+Model_Infinix HOT 20 5G,6.10E-05
+Model_SAMSUNG Galaxy S21 FE 5G,6.01E-05
+Model_MOTOROLA Edge 30,5.92E-05
+Processor__Qualcomm Snapdragon 439,5.89E-05
+Model_realme C35,5.89E-05
+Colour_Velocity Wave,5.80E-05
+Model_realme C33,5.78E-05
+Colour_Glacial Green,5.75E-05
+Colour_Pure Black,5.67E-05
+Model_vivo T2x 5G,5.65E-05
+Processor__Qualcomm Snapdragon 730G,5.55E-05
+Colour_Steller Black,5.47E-05
+Colour_Orange,5.43E-05
+Colour_Metallica Gold,5.35E-05
+Processor__snapdragon 888,5.30E-05
+Colour_Blue Marble,5.22E-05
+Model_vivo V25 Pro 5G,5.07E-05
+Colour_Arctic White,5.03E-05
+Colour_Navy Blue,5.02E-05
+Model_vivo Y12G,4.93E-05
+Colour_Elegant Black,4.93E-05
+Processor__Snapdragon 685,4.81E-05
+Model_realme Narzo 50A Prime,4.79E-05
+Processor__Dimensity 810,4.73E-05
+Processor__Unisoc Tiger T616,4.73E-05
+Colour_Cool Blue,4.54E-05
+Colour_Submariner Black,4.53E-05
+Colour_Supernova Green,4.45E-05
+Processor__Dimensity 6020,4.24E-05
+Model_MOTOROLA Edge 40,4.19E-05
+Model_MOTOROLA e32,4.07E-05
+Colour_Stardust White,3.99E-05
+Colour_Space Purple,3.86E-05
+Colour_Baby Blue,3.79E-05
+Model_SAMSUNG Galaxy A23,3.76E-05
+Model_Google Pixel 6a,3.70E-05
+Model_REDMI Note 12,3.67E-05
+Model_realme Narzo 50A,3.62E-05
+Colour_Laser Blue,3.52E-05
+Colour_Dark Red,3.50E-05
+Colour_Pearl White,3.47E-05
+Colour_Sky Blue,3.46E-05
+Model_Infinix Note 12,3.42E-05
+Model_Infinix Note 12 Pro 5G,3.36E-05
+Colour_Chalk,3.33E-05
+Model_OPPO A17K,3.30E-05
+Model_POCO M4 5G,3.29E-05
+Colour_Glacier Blue,3.26E-05
+Processor__Exynos 850,3.24E-05
+Model_realme C55,3.23E-05
+Colour_Dancing waves,3.15E-05
+Model_OPPO A17k,3.08E-05
+Processor__MediaTek Helio P35,2.96E-05
+Model_Infinix Hot 11,2.94E-05
+Model_realme C25s,2.78E-05
+Colour_Stealth Black,2.76E-05
+Colour_Peppy Purple,2.74E-05
+Colour_Horizon Blue,2.71E-05
+Model_Tecno Spark 9T,2.70E-05
+Colour_Prism Black,2.62E-05
+Model_realme 8i,2.57E-05
+Colour_Jade Fog,2.44E-05
+Model_REDMI 10,2.44E-05
+Model_POCO M4 Pro,2.43E-05
+Colour_Quick Silver,2.42E-05
+Model_SAMSUNG Galaxy A13,2.40E-05
+Colour_Midnight Gray,2.37E-05
+Colour_Racing Blue,2.36E-05
+Colour_Soulful Blue,2.34E-05
+Colour_Force Black,2.32E-05
+Processor__Octa-core(EXYNOS),2.30E-05
+Model_SAMSUNG Galaxy F04,2.25E-05
+Processor__Mediatek Dimensity 1300,2.25E-05
+Colour_Royal Blue,2.13E-05
+Processor__MediaTek Helio G70,2.05E-05
+Colour_Aquamarine Blue,2.01E-05
+Model_SAMSUNG Galaxy A04,2.01E-05
+Colour_Sunrise Blue,1.95E-05
+Processor__Dimensity 8020,1.94E-05
+Colour_Oxygen Blue,1.89E-05
+Colour_Drizzling Gold,1.88E-05
+Colour_Atlantic Green,1.85E-05
+Model_vivo Y1s,1.85E-05
+Model_POCO X2,1.84E-05
+Model_vivo Y21T,1.84E-05
+Model_MOTOROLA g42,1.80E-05
+Model_redmi max,1.78E-05
+Processor__MediaTek Helio G35,1.76E-05
+Processor__MediaTek Helio G96,1.72E-05
+Colour_Phantom Blue,1.67E-05
+Rear Camera_40MP,1.65E-05
+Colour_Marine Blue,1.63E-05
+Processor__Octa Core,1.60E-05
+Colour_Speed Blue,1.60E-05
+Model_realme 10,1.59E-05
+Processor__Exynos Octa Core,1.56E-05
+Colour_Light Green,1.56E-05
+Colour_Glimmer Black,1.55E-05
+Colour_Midnight Galaxy,1.54E-05
+Colour_M3),1.54E-05
+Processor__Mediatek Helio G99 Octa Core,1.53E-05
+Colour_Frosted Green,1.53E-05
+Colour_Speed Black,1.51E-05
+Colour_Aqua Blue,1.49E-05
+Model_OPPO A77,1.45E-05
+Colour_Eco Black,1.45E-05
+"Processor__Exynos 1330, Octa Core ",1.40E-05
+Colour_Aurora Blue,1.39E-05
+Colour_Starry Sky,1.38E-05
+Colour_Peach,1.36E-05
+Model_realme 9 5G SE,1.34E-05
+Processor__Meditek Helio G37,1.33E-05
+Model_SAMSUNG Galaxy F14 5G,1.29E-05
+Colour_Flashy Black,1.28E-05
+Colour_Meteorite Grey,1.27E-05
+Colour_GOAT Green,1.27E-05
+Processor__Helio G36,1.26E-05
+Processor__Unisoc T606,1.26E-05
+Processor__Unisoc,1.25E-05
+Colour_Frosted Blue,1.19E-05
+Model_realme 9i,1.18E-05
+Colour_Astral Black,1.17E-05
+Model_vivo Y35,1.16E-05
+Colour_Cyber Black,1.15E-05
+Colour_Charcoal Grey,1.15E-05
+Colour_Light Silver,1.15E-05
+Model_REDMI Note 11,1.14E-05
+Model_Infinix SMART 7,1.14E-05
+Model_MOTOROLA g72,1.13E-05
+Colour_Racing Silver,1.09E-05
+Model_Infinix Hot 20 5G,1.06E-05
+Colour_Lightsaber Green,1.04E-05
+Model_POCO C31,1.04E-05
+Colour_Flash Blue,1.03E-05
+Colour_Mystique Blue,1.02E-05
+Model_Tecno Spark Go 2023,1.01E-05
+Processor__Qualcomm Snapdragon 680 (SM6225),1.01E-05
+Front Camera_2MP,1.00E-05
+Colour_Gray Shadow,9.88E-06
+Processor__Spreadtrum,9.69E-06
+Model_POCO C50,9.46E-06
+Model_itel A60,9.43E-06
+Colour_Astral White,9.38E-06
+Colour_Country Green,9.35E-06
+Model_Infinix Smart 6 HD,9.22E-06
+Processor__Unisoc Spreadtrum SC9863A1,9.16E-06
+Model_Infinix Smart 6,9.11E-06
+Model_REDMI 9 Activ,9.05E-06
+Model_Infinix Hot 12,8.94E-06
+Model_realme C33 2023,8.91E-06
+Colour_Sunrise Gold,8.69E-06
+Colour_Flash Black,8.58E-06
+Processor__Mediatek Helio A22,8.33E-06
+Model_Micromax IN 2C,8.33E-06
+Colour_Nebula Blue,8.25E-06
+Model_OnePlus Nord,8.24E-06
+Colour_Watery Grey,8.19E-06
+Model_realme 9 5G,8.12E-06
+Colour_Metallic White,7.96E-06
+Colour_Forest Green,7.92E-06
+Model_realme NARZO 50A PRIME,7.92E-06
+Colour_Copper,7.90E-06
+Rear Camera_5MP,7.84E-06
+Model_realme C31,7.71E-06
+Model_OPPO Reno8T 5G,7.60E-06
+Processor__Qualcomm Snapdragon 720G,7.45E-06
+Colour_Mint Green,7.40E-06
+Colour_Ice Blue,7.37E-06
+Processor__Unisoc SC9863A,7.15E-06
+Colour_Oxygen Green,7.05E-06
+Colour_Black Engine,6.87E-06
+Colour_FLASH BLUE,6.69E-06
+Colour_Atlantic Blue,6.69E-06
+Colour_Clash White,6.66E-06
+Colour_Azure Glow,6.65E-06
+Model_POCO M4 Pro 5G,6.61E-06
+Processor__Mediatek Dimensity 930,6.51E-06
+Model_Infinix NOTE 12i,6.40E-06
+Colour_Matte Black,6.29E-06
+Processor__Snapdragon 680,6.26E-06
+Colour_Sunlight Orange,6.25E-06
+Colour_Silver Wave,6.09E-06
+Colour_Metal Black,5.96E-06
+Colour_Lake Blue,5.90E-06
+Model_MOTOROLA e13,5.80E-06
+Model_POCO C51,5.74E-06
+Colour_Space Blue,5.69E-06
+Colour_Snowfall,5.65E-06
+Colour_Blaster Green,5.58E-06
+Colour_Iceberg Blue,5.57E-06
+Model_REDMI Note 11S,5.30E-06
+Model_realme Narzo 50i Prime,5.28E-06
+Colour_Solar Gold,5.21E-06
+Processor__Unisoc T610,5.21E-06
+Model_realme 8,5.12E-06
+Colour_Arctic Blue,4.97E-06
+Colour_Racing Black,4.91E-06
+Model_MOTOROLA g73 5G,4.60E-06
+Model_MOTOROLA G42,4.54E-06
+Colour_Mirror Black,4.52E-06
+Model_REDMI 10 Prime 2022,4.43E-06
+Processor__Spreadtrum SC9863A1,4.41E-06
+Model_REDMI A1+,4.40E-06
+Colour_Stellar Black,4.35E-06
+Processor__Unisoc T612 processor,4.31E-06
+Colour_Sandy Gold,4.28E-06
+Colour_Rainy Night,4.25E-06
+Colour_Dark Blue,4.20E-06
+Processor__UNISOC T700,4.17E-06
+Colour_Glacier White,4.07E-06
+Colour_Copper Blush,4.05E-06
+Model_Tecno Spark 9,3.97E-06
+Model_SAMSUNG Galaxy A04e,3.78E-06
+Model_REDMI Note 9,3.49E-06
+Colour_Cosmic Black,3.44E-06
+Colour_Obsidian Black,3.41E-06
+Model_realme C11 2021,3.35E-06
+Processor__MediaTek Helio G37,3.26E-06
+Colour_UYUNI BLUE,3.26E-06
+Colour_Carbon Gray,3.25E-06
+Colour_Cool Grey,3.25E-06
+Model_realme C30,3.20E-06
+Colour_Matte Charcoal,3.17E-06
+Processor__MediaTek Helio G80,3.13E-06
+Colour_Punk Black,3.12E-06
+Model_Infinix Smart 7 HD,3.12E-06
+Processor__SC9863A,3.09E-06
+Model_LAVA Z2,3.05E-06
+Model_MOTOROLA g22,3.01E-06
+Colour_Creamy White,2.92E-06
+Colour_Surfing Blue,2.91E-06
+Colour_Noble Black,2.87E-06
+Colour_Emerald Green,2.85E-06
+Model_REDMI 9i,2.85E-06
+Model_realme Narzo 30 Pro 5G,2.73E-06
+Colour_Gold,2.70E-06
+Processor__MediaTek Helio A22,2.68E-06
+Colour_Metallic Rose,2.59E-06
+Model_Tecno Pova 3,2.54E-06
+Colour_Tahiti Gold,2.46E-06
+Colour_Rainforest,2.45E-06
+Model_Infinix HOT 12 Play,2.40E-06
+"Processor__2GHz, Quad Core ",2.37E-06
+Model_MOTOROLA e40,2.36E-06
+Colour_Night Sea,2.36E-06
+Colour_Twilight Gold,2.34E-06
+Model_REDMI 12c,2.34E-06
+Colour_Nitro Blaze,2.34E-06
+Colour_Agate Black,2.33E-06
+Rear Camera_16MP,2.22E-06
+Processor__Helio G25,2.19E-06
+Colour_Dawn Gold,2.16E-06
+Model_SAMSUNG Galaxy M04,2.04E-06
+Processor__Octa-core,1.99E-06
+Colour_Prime Blue,1.98E-06
+Colour_Opal Green,1.98E-06
+Colour_Nightsky Green,1.91E-06
+Model_realme C30s,1.80E-06
+Model_Infinix Smart 5A,1.80E-06
+Colour_Blade Silver,1.80E-06
+Colour_Space Black,1.79E-06
+Colour_Cross Black,1.79E-06
+Model_REDMI 10A SPORT,1.78E-06
+Colour_Rocking Black,1.76E-06
+Model_vivo Y33s,1.74E-06
+Processor__MediaTek G35,1.73E-06
+Colour_Coral Green,1.71E-06
+Colour_SLATE GREY,1.67E-06
+Colour_Dark Green,1.66E-06
+Processor__MediaTek G37,1.66E-06
+Processor__MediaTek Dimensity 800U,1.65E-06
+Colour_Jade Purple,1.62E-06
+Colour_Prism Blue,1.51E-06
+Model_Nokia G11 Plus,1.50E-06
+Model_Infinix HOT 20 Play,1.47E-06
+Model_realme Narzo 50i,1.44E-06
+Colour_Azure Blue,1.43E-06
+Colour_Turquoise Cyan,1.38E-06
+Colour_Light Blue,1.37E-06
+Model_redmi min,1.37E-06
+Model_realme narzo 50i Prime,1.34E-06
+Colour_Endless Black,1.29E-06
+Colour_Brown,1.28E-06
+Processor__Unisoc SC9863A/ Unisoc SC9863A1,1.28E-06
+Processor__MediaTek Helio A20,1.26E-06
+Model_realme Narzo N55,1.26E-06
+Colour_Nebula Purple,1.22E-06
+Processor__Qualcomm Snapdragon 8 Gen 2,1.20E-06
+Processor__MediaTek Helio G25,1.20E-06
+Colour_Grey,1.16E-06
+Model_micromax 2,1.12E-06
+Colour_Uyuni Blue,1.08E-06
+Model_I Kall Z19Pro,1.06E-06
+Model_REDMI Note 10 Lite,1.03E-06
+Model_MOTOROLA e22s,1.00E-06
+Colour_Shadow Gray,9.81E-07
+Colour_Metaverse Blue,9.78E-07
+Colour_Sky Mirror,9.08E-07
+Colour_Origin Blue,8.91E-07
+Colour_Sunshower,8.89E-07
+Colour_CHARCOAL BLACK,7.99E-07
+Colour_Watery Blue,7.53E-07
+Model_I Kall Z19Pro Flash blue,7.44E-07
+Colour_Supersonic Black,7.29E-07
+Colour_Infinity Black,7.25E-07
+Colour_SapphireBlack,7.21E-07
+Model_Infinix Zero 5G 2023,7.11E-07
+Model_realme C21Y,7.04E-07
+Colour_Dark Matter,6.82E-07
+Colour_B.A.E. Purple,6.79E-07
+Model_Nokia C01 Plus,6.43E-07
+Model_Infinix Note 12 5G,6.18E-07
+Processor__Mediatek MT6261D,5.94E-07
+Model_Tecno Spark 8T,5.03E-07
+Colour_Lucent White,4.56E-07
+Colour_Exploratory Blue,4.55E-07
+Processor__Unisoc Tiger T612 (12 nm),4.54E-07
+Colour_Light Sea Green,4.46E-07
+Model_redmi mono,4.41E-07
+Colour_Green Apple,4.10E-07
+Colour_Stripe Blue,4.01E-07
+Colour_Scarlet Red,3.99E-07
+Colour_Caribbean Green,3.75E-07
+Model_micromax,3.56E-07
+Colour_Shadow Black,3.43E-07
+Processor__MTK6261D,3.39E-07
+Colour_Polar Black,3.36E-07
+Colour_Midnight Blue,3.16E-07
+Colour_Flame Red,2.96E-07
+Colour_Rush Black,2.77E-07
+Colour_Sunrise Copper,2.56E-07
+Colour_Hyperspace,2.52E-07
+Model_Tecno Pop 5 Pro,2.49E-07
+Colour_Stripe Black,2.46E-07
+Colour_Prime Black,2.35E-07
+Processor__Helio A22,2.02E-07
+Colour_Denim Black,1.98E-07
+Model_Redmi 9A Sport,1.82E-07
+Model_Infinix Note 11s Free Fire Edition,1.61E-07
+Colour_VertMenthe,1.39E-07
+Colour_Starry Purple,1.25E-07
+Colour_Ink Black,1.22E-07
+Processor__Mediatek Helio G88,1.20E-07
+Colour_Jade White,1.12E-07
+Model_micromax1,1.04E-07
+Colour_DawnBlue,9.60E-08
+Colour_Luna Blue,8.11E-08
+Colour_Deepsea Luster,5.93E-08
+Colour_Bamboo Green,5.08E-08
+Colour_Waterfall Blue,4.46E-08
+Colour_Halo White,2.46E-08
+Colour_OMG Black,1.34E-08
+Colour_Marigold,9.96E-09
+Colour_Steel Blue,0
+Colour_Starry Glow,0
+Colour_Sunrise Orange,0
+Colour_Sunshine Gold,0
+Colour_Starlight Black,0
+Colour_Starry Black,0
+Colour_chalk,0
+Colour_Wildcat Blue,0
+Colour_Tuscany Blue,0
+Colour_White,0
+Colour_Night Black,0
+Colour_Mithril Grey,0
+Colour_Pacific Blue,0
+Colour_Silk Blue,0
+Colour_Polar Blue,0
+Colour_Playful Green,0
+Colour_Paper White,0
+Colour_Purple,0
+Colour_Lunar Black,0
+Processor__IOS,0
+Colour_Lunar Blue,0
+Colour_Matte black,0
+Colour_Meteor Grey,0
+Colour_Meteor Black,0
+Colour_Meterorite Grey,0
+Processor__6 Core,0
+Colour_Fantasy Purple,0
+Colour_Laser Black,0
+Colour_Heart Of Ocean,0
+Processor__MediaTek Dimensity 700,0
+Colour_Icy Blue,0
+Colour_Ice Dawn,0
+Processor__MTK Dimensity 700,0
+Colour_Iris Purple,0
+Colour_Eclipse Black,0
+Colour_Deep Ocean Blue,0
+Colour_Frost White,0
+Colour_DEEP GRAY,0
+Colour_Coral Orange,0
+Colour_Diamond White,0
+Colour_Awesome Silver,0
+Colour_Cyan,0
+Colour_Alpine White,0
+Model_vivo Y565G,0
+Processor__Qualcomm SM6225 Snapdragon 680 4G (6 nm),0
+Processor__Mediatek Helio G95,0
+Colour_Awesome Lime,0
+Colour_Aurora Gold,0
+Colour_Aqua Sky,0
+Model_SAMSUNG M53 5G,0
+Model_micromax 1,0
+Model_POCO M3 Pro 5G,0
+Model_REDMI Note 10S,0
+Model_POCO F1,0
+Model_OPPO A77s,0
+Model_LAVA Z21,0
+Model_OPPO F21s Pro,0
+Processor__Qualcomm Snapdragon 845,0
