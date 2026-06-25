@@ -71,7 +71,7 @@ Correlation Analysis:
 ```
 7. Outlier Detection (Detected using boxplots):
 ```
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/955c7b82-f892-42ad-9988-302de95c28a0" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/955c7b82-f892-42ad-9988-302de95c28a0" />
 
 ```
 
@@ -121,20 +121,29 @@ Identified key features influencing price
 Correlation Heatmap:
 ```
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/433c5a20-d209-4299-8ea6-1ab7a42f28e5" />
+
 ```
 Feature Importance Plot:
+
 ```
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/84c9100f-3589-4eee-a10a-207aa661843b" />
+
 ```
+
 Actual vs Predicted Plot:
+
 ```
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/33a7440a-09fe-4ea3-8e18-3a5cf95bea79" />
+
 ```
+
 Residual Plot:
+
 ```
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/ea87b129-07ec-4cb7-b298-4d0efac7b4bd" />
 
 ```
+
 Business Impact:
 
 Helps companies predict mobile prices
