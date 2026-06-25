@@ -47,31 +47,31 @@ Categorical → Model, Color, Processor
 ```
 Univariate Analysis:
 ```
-<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/c5dc3f96-1d83-405e-9ca3-bd34fb01ac52" />
-<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/28f9d214-c193-4968-97b8-a59b82b7a0c2" />
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/c5dc3f96-1d83-405e-9ca3-bd34fb01ac52" />
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/28f9d214-c193-4968-97b8-a59b82b7a0c2" />
 
 ```
 Bivariate Analysis:
 
 ```
-<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/2a5fe215-4d31-4010-8ddd-d336ea9d3953" />
-<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/f9fa059c-b088-44dd-aa84-9e34f07ce09c" />
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/2a5fe215-4d31-4010-8ddd-d336ea9d3953" />
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/f9fa059c-b088-44dd-aa84-9e34f07ce09c" />
 
 ```
 Multivariate Analysis:
 
 ```
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/8de0713d-bcdc-4aaa-9372-8c7f5f5b59a3" />
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/8de0713d-bcdc-4aaa-9372-8c7f5f5b59a3" />
 
 ```
 Correlation Analysis:
 ```
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/21e279d1-4fa4-474c-9cae-fed0e93eb813" />
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/21e279d1-4fa4-474c-9cae-fed0e93eb813" />
 
 ```
 7. Outlier Detection (Detected using boxplots):
 ```
-<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/955c7b82-f892-42ad-9988-302de95c28a0" />
+<img width="800" height="1100" alt="image" src="https://github.com/user-attachments/assets/955c7b82-f892-42ad-9988-302de95c28a0" />
 
 ```
 
