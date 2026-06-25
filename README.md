@@ -47,15 +47,15 @@ Categorical → Model, Color, Processor
 ```
 Univariate Analysis:
 ```
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/c5dc3f96-1d83-405e-9ca3-bd34fb01ac52" />
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/28f9d214-c193-4968-97b8-a59b82b7a0c2" />
+<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/c5dc3f96-1d83-405e-9ca3-bd34fb01ac52" />
+<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/28f9d214-c193-4968-97b8-a59b82b7a0c2" />
 
 ```
 Bivariate Analysis:
 
 ```
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/2a5fe215-4d31-4010-8ddd-d336ea9d3953" />
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/f9fa059c-b088-44dd-aa84-9e34f07ce09c" />
+<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/2a5fe215-4d31-4010-8ddd-d336ea9d3953" />
+<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/f9fa059c-b088-44dd-aa84-9e34f07ce09c" />
 
 ```
 Multivariate Analysis:
