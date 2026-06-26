@@ -1,10 +1,11 @@
 # Project-4
-Feature Extraction and Price Prediction for Mobile Phones
-Project Overview:
+# Feature Extraction and Price Prediction for Mobile Phones
+
+### Project Overview:
 
 This project aims to predict mobile phone prices (Prize) based on their specifications using machine learning techniques. It also identifies the key features that influence mobile pricing.
 
-Objectives:
+# Objectives:
 
 Analyze mobile phone specifications
 Perform Exploratory Data Analysis (EDA)
