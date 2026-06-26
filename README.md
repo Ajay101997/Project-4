@@ -13,7 +13,7 @@ Identify important features affecting price
 Apply feature engineering and encoding
 Build and evaluate machine learning models
 
-Dataset Description:
+### Dataset Description:
 
 The dataset contains mobile phone specifications such as:
 
@@ -26,11 +26,11 @@ Mobile Height
 AI Lens
 Color and Model
 
-Target Variable:
+### Target Variable:
 
 Prize (Mobile Phone Price)
 
-Project Workflow:
+### Project Workflow:
 
 1. Data Exploration
 Used head(), info(), describe()
@@ -46,26 +46,26 @@ Categorical → Model, Color, Processor
 
 5. EDA
 ```
-Univariate Analysis:
+### Univariate Analysis:
 ```
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/c5dc3f96-1d83-405e-9ca3-bd34fb01ac52" />
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/28f9d214-c193-4968-97b8-a59b82b7a0c2" />
 
 ```
-Bivariate Analysis:
+### Bivariate Analysis:
 
 ```
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/2a5fe215-4d31-4010-8ddd-d336ea9d3953" />
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/f9fa059c-b088-44dd-aa84-9e34f07ce09c" />
 
 ```
-Multivariate Analysis:
+### Multivariate Analysis:
 
 ```
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/8de0713d-bcdc-4aaa-9372-8c7f5f5b59a3" />
 
 ```
-Correlation Analysis:
+### Correlation Analysis:
 ```
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/21e279d1-4fa4-474c-9cae-fed0e93eb813" />
 
@@ -109,55 +109,55 @@ Random Forest MSE: 10275324.485738747
 
 ```
 
-Model Performance:
+### Model Performance:
 
 | Model | R² Score | Performance |
 |--------|:--------:|-------------|
 | Linear Regression | **0.9368** | Best Performing Model |
 | Random Forest Regressor | **0.8616** | Good Performance |
 
-Linear Regression performed better.
+### Linear Regression performed better.
 
-Feature Importance:
+### Feature Importance:
 
 Calculated using Random Forest
 Identified key features influencing price
 
-Visualizations:
+### Visualizations:
 
-Correlation Heatmap:
+### Correlation Heatmap:
 ```
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/433c5a20-d209-4299-8ea6-1ab7a42f28e5" />
 
 ```
-Feature Importance Plot:
+### Feature Importance Plot:
 
 ```
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/84c9100f-3589-4eee-a10a-207aa661843b" />
 
 ```
 
-Actual vs Predicted Plot:
+### Actual vs Predicted Plot:
 
 ```
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/33a7440a-09fe-4ea3-8e18-3a5cf95bea79" />
 
 ```
 
-Residual Plot:
+### Residual Plot:
 
 ```
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/ea87b129-07ec-4cb7-b298-4d0efac7b4bd" />
 
 ```
 
-Business Impact:
+### Business Impact:
 
 Helps companies predict mobile prices
 Identifies key features affecting pricing
 Supports data-driven decisions
 
-Technologies Used:
+### Technologies Used:
 
 Python
 Pandas
@@ -166,6 +166,6 @@ Matplotlib
 Seaborn
 Scikit-learn
 
-Conclusion:
+### Conclusion:
 
 This project demonstrates how machine learning can be used to predict mobile phone prices using their specifications. The analysis also identifies the key features that influence price, helping businesses make better product and pricing decisions.
